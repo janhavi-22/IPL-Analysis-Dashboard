@@ -7,4 +7,4 @@ I also included detailed player performance highlights by showcasing the Orange 
 Another major component of the project is the Points Table, which presents team rankings based on wins, losses, net run rate, and overall consistency throughout the tournament. This table helps analyze which teams performed steadily and which ones struggled over the course of the season.
 
 To build this dashboard, I used Power BI for data visualization, creating measures, adding slicers, and designing an interactive layout. This project helped me strengthen my skills in data analysis, visual storytelling, and presenting sports data in a clean and engaging manner. It also improved my understanding of DAX, data modeling, and performance-focused dashboard design.
-wertyuiop[]ihvbnc ,'aqer09iuhgjfdmk,l;=-5096yuhtjgnfmd,.s;w'[=4-5096yuihjgkmf,d.'e]=4-50toikgmf,.d;'[e]=-50oikgm,
+wertyuiop[]ihvbnc ,'aqer09iuhgjfdmk,l;=-5096yuhtjgnfmd,.s;w'[=4-5096yuihjgkmf,d.
