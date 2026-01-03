@@ -8,4 +8,4 @@ Another major component of the project is the Points Table, which presents team 
 
 To build this dashboard, I used Power BI for data visualization, creating measures, adding slicers, and designing an interactive layout. This project helped me strengthen my skills in data analysis, visual storytelling, and presenting sports data in a clean and engaging manner. It also improved my understanding of DAX, data modeling, and performance-focused dashboard design.
 uhduewiuded;;ds.d,do;[]ekmvfvnjghgjfkmvfkvjhfwusncjnc ;fr;fv
-r][r;,vlsmkfueydbhchefolg[gp;t[].,;tlksmisedecihueufyrfhkcaekjkdcl;,k;'dlslk[pfwe]foiewduibxaskhbckenvrugojibnklfdk[ws
+r][r;,vlsmkfueydbhchefolg[gp;t[].,;tlksmisedecihueufyrfhkcaekjkdcl;,k;'dlslk[pfwe]foiewduibxas
